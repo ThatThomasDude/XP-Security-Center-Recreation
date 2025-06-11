@@ -1,0 +1,10 @@
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\bin\Release\XPSecurityCenter.exe.config
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\bin\Release\XPSecurityCenter.exe
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\bin\Release\XPSecurityCenter.pdb
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.AssemblyReference.cache
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.Form1.resources
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.Properties.Resources.resources
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.GenerateResource.cache
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.exe
+C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Release\XPSecurityCenter.pdb

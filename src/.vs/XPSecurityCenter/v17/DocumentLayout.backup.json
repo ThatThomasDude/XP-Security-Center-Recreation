@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|c:\\users\\pc-gaming\\source\\repos\\xpsecuritycenter\\xpsecuritycenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|solutionrelative:xpsecuritycenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\xpsecuritycenter\\properties\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|solutionrelative:xpsecuritycenter\\properties\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\xpsecuritycenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|solutionrelative:xpsecuritycenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\xpsecuritycenter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACE0A62-4746-4730-8EAB-58A76ADA03FD}|XPSecurityCenter\\XPSecurityCenter.csproj|solutionrelative:xpsecuritycenter\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.cs",
+              "RelativeDocumentMoniker": "XPSecurityCenter\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.cs",
+              "RelativeToolTip": "XPSecurityCenter\\Form1.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:47:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Properties\\Resources.cs",
+              "RelativeDocumentMoniker": "XPSecurityCenter\\Properties\\Resources.cs",
+              "ToolTip": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Properties\\Resources.cs",
+              "RelativeToolTip": "XPSecurityCenter\\Properties\\Resources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:10:04.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.cs",
+              "RelativeDocumentMoniker": "XPSecurityCenter\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.cs [Design]",
+              "RelativeToolTip": "XPSecurityCenter\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:55:07.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "XPSecurityCenter\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Gaming\\source\\repos\\XPSecurityCenter\\XPSecurityCenter\\Form1.Designer.cs",
+              "RelativeToolTip": "XPSecurityCenter\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:45:56.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
