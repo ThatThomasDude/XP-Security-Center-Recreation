@@ -37,30 +37,32 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.Option3 = new System.Windows.Forms.RadioButton();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.Option3 = new System.Windows.Forms.RadioButton();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -68,7 +70,7 @@
             this.label1.BackColor = System.Drawing.Color.White;
             this.label1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
-            this.label1.Location = new System.Drawing.Point(237, 104);
+            this.label1.Location = new System.Drawing.Point(237, 106);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(483, 30);
             this.label1.TabIndex = 4;
@@ -81,11 +83,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.White;
-            this.label4.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Trebuchet MS", 13.25F);
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
-            this.label4.Location = new System.Drawing.Point(236, 80);
+            this.label4.Location = new System.Drawing.Point(236, 83);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(167, 24);
+            this.label4.Size = new System.Drawing.Size(158, 23);
             this.label4.TabIndex = 9;
             this.label4.Text = "Security essentials";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -170,41 +172,6 @@
             this.label9.Text = "Change the way Security Center alerts me";
             this.label9.UseMnemonic = false;
             // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.BackColor = System.Drawing.Color.White;
-            this.label10.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
-            this.label10.Location = new System.Drawing.Point(236, 413);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(256, 24);
-            this.label10.TabIndex = 18;
-            this.label10.Text = "Manage security settings for:";
-            // 
-            // label11
-            // 
-            this.label11.BackColor = System.Drawing.Color.White;
-            this.label11.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
-            this.label11.Location = new System.Drawing.Point(237, 130);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(472, 19);
-            this.label11.TabIndex = 19;
-            this.label11.Text = "recommendations. To return to the Security Center later, Open Control Panel.";
-            // 
-            // linkLabel2
-            // 
-            this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
-            this.linkLabel2.Location = new System.Drawing.Point(237, 144);
-            this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(264, 13);
-            this.linkLabel2.TabIndex = 20;
-            this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "What\'s new in Windows to help protect my computer?";
-            // 
             // linkLabel1
             // 
             this.linkLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
@@ -220,28 +187,6 @@
             this.linkLabel1.Text = "privacy statement.";
             this.linkLabel1.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked_1);
-            // 
-            // Option3
-            // 
-            this.Option3.Appearance = System.Windows.Forms.Appearance.Button;
-            this.Option3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Option3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Option3.FlatAppearance.BorderSize = 0;
-            this.Option3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
-            this.Option3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.Option3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.Option3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Option3.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Option3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
-            this.Option3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Option3.Location = new System.Drawing.Point(274, 449);
-            this.Option3.Name = "Option3";
-            this.Option3.Size = new System.Drawing.Size(138, 32);
-            this.Option3.TabIndex = 24;
-            this.Option3.Text = "Internet Options";
-            this.Option3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Option3.UseVisualStyleBackColor = true;
-            this.Option3.Click += new System.EventHandler(this.Option3_Click);
             // 
             // label2
             // 
@@ -303,25 +248,16 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(240, 449);
+            this.pictureBox6.Location = new System.Drawing.Point(240, 453);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(32, 32);
             this.pictureBox6.TabIndex = 25;
             this.pictureBox6.TabStop = false;
             // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(240, 173);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(492, 237);
-            this.pictureBox5.TabIndex = 26;
-            this.pictureBox5.TabStop = false;
-            // 
             // pictureBox7
             // 
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-            this.pictureBox7.Location = new System.Drawing.Point(433, 449);
+            this.pictureBox7.Location = new System.Drawing.Point(417, 453);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(32, 32);
             this.pictureBox7.TabIndex = 28;
@@ -338,10 +274,10 @@
             this.radioButton1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.radioButton1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.radioButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.radioButton1.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton1.Font = new System.Drawing.Font("Trebuchet MS", 10.25F, System.Drawing.FontStyle.Bold);
             this.radioButton1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
             this.radioButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.radioButton1.Location = new System.Drawing.Point(460, 449);
+            this.radioButton1.Location = new System.Drawing.Point(448, 453);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(165, 32);
             this.radioButton1.TabIndex = 27;
@@ -351,14 +287,72 @@
             this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             this.radioButton1.Click += new System.EventHandler(this.radioButton1_Click);
             // 
-            // pictureBox8
+            // pictureBox5
             // 
-            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(240, 487);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(32, 32);
-            this.pictureBox8.TabIndex = 30;
-            this.pictureBox8.TabStop = false;
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(240, 177);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(492, 237);
+            this.pictureBox5.TabIndex = 26;
+            this.pictureBox5.TabStop = false;
+            // 
+            // label11
+            // 
+            this.label11.BackColor = System.Drawing.Color.White;
+            this.label11.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
+            this.label11.Location = new System.Drawing.Point(237, 132);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(472, 19);
+            this.label11.TabIndex = 19;
+            this.label11.Text = "recommendations. To return to the Security Center later, open Control Panel.";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.White;
+            this.label10.Font = new System.Drawing.Font("Trebuchet MS", 13.25F);
+            this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(57)))), ((int)(((byte)(98)))));
+            this.label10.Location = new System.Drawing.Point(236, 417);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(242, 23);
+            this.label10.TabIndex = 18;
+            this.label10.Text = "Manage security settings for:";
+            // 
+            // Option3
+            // 
+            this.Option3.Appearance = System.Windows.Forms.Appearance.Button;
+            this.Option3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Option3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Option3.FlatAppearance.BorderSize = 0;
+            this.Option3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Transparent;
+            this.Option3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.Option3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.Option3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Option3.Font = new System.Drawing.Font("Trebuchet MS", 10.25F, System.Drawing.FontStyle.Bold);
+            this.Option3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
+            this.Option3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.Option3.Location = new System.Drawing.Point(274, 453);
+            this.Option3.Name = "Option3";
+            this.Option3.Size = new System.Drawing.Size(138, 32);
+            this.Option3.TabIndex = 24;
+            this.Option3.Text = "Internet Options";
+            this.Option3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.Option3.UseVisualStyleBackColor = true;
+            this.Option3.Click += new System.EventHandler(this.Option3_Click);
+            // 
+            // linkLabel2
+            // 
+            this.linkLabel2.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(3)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
+            this.linkLabel2.Location = new System.Drawing.Point(237, 145);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(264, 13);
+            this.linkLabel2.TabIndex = 20;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "What\'s new in Windows to help protect my computer?";
             // 
             // radioButton2
             // 
@@ -370,10 +364,10 @@
             this.radioButton2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
             this.radioButton2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.radioButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.radioButton2.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton2.Font = new System.Drawing.Font("Trebuchet MS", 10.25F, System.Drawing.FontStyle.Bold);
             this.radioButton2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(24)))), ((int)(((byte)(213)))));
             this.radioButton2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.radioButton2.Location = new System.Drawing.Point(274, 487);
+            this.radioButton2.Location = new System.Drawing.Point(274, 491);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(185, 32);
             this.radioButton2.TabIndex = 29;
@@ -382,12 +376,35 @@
             this.radioButton2.UseVisualStyleBackColor = true;
             this.radioButton2.Click += new System.EventHandler(this.radioButton2_Click);
             // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Location = new System.Drawing.Point(240, 491);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox8.TabIndex = 30;
+            this.pictureBox8.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox9.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox9.BackgroundImage")));
+            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Location = new System.Drawing.Point(517, 5);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(30, 35);
+            this.pictureBox9.TabIndex = 31;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(744, 578);
+            this.Controls.Add(this.pictureBox9);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.pictureBox7);
@@ -423,9 +440,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -445,18 +463,19 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.LinkLabel linkLabel2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.LinkLabel linkLabel1;
-        internal System.Windows.Forms.RadioButton Option3;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox7;
         internal System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        internal System.Windows.Forms.RadioButton Option3;
+        private System.Windows.Forms.LinkLabel linkLabel2;
         internal System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox9;
     }
 }
 
