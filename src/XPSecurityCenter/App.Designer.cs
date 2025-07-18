@@ -1,6 +1,6 @@
 ﻿namespace XPSecurityCenter
 {
-    partial class Form1
+    partial class App
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(App));
             this.label1 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
@@ -77,7 +77,6 @@
             this.label1.Text = "Security Center helps you manage your Windows security settings. To help protect " +
     "your computer, make sure the three security essentials are marked ON. If the set" +
     "tings are not ON, follow the";
-            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // label4
             // 
@@ -90,7 +89,6 @@
             this.label4.Size = new System.Drawing.Size(158, 23);
             this.label4.TabIndex = 9;
             this.label4.Text = "Security essentials";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // listView1
             // 
@@ -130,7 +128,6 @@
             this.label6.TabIndex = 13;
             this.label6.Text = "Check for the latest updates from Windows Update";
             this.label6.UseMnemonic = false;
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
@@ -210,7 +207,6 @@
             this.pictureBox4.Size = new System.Drawing.Size(209, 243);
             this.pictureBox4.TabIndex = 11;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // pictureBox3
             // 
@@ -221,7 +217,6 @@
             this.pictureBox3.Size = new System.Drawing.Size(243, 67);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // pictureBox2
             // 
@@ -233,7 +228,6 @@
             this.pictureBox2.Size = new System.Drawing.Size(744, 67);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox1
             // 
@@ -243,7 +237,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(243, 69);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click_1);
             // 
             // pictureBox6
             // 
@@ -262,7 +255,6 @@
             this.pictureBox7.Size = new System.Drawing.Size(32, 32);
             this.pictureBox7.TabIndex = 28;
             this.pictureBox7.TabStop = false;
-            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
             // 
             // radioButton1
             // 
@@ -284,7 +276,6 @@
             this.radioButton1.Text = "Windows Firewall";
             this.radioButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             this.radioButton1.Click += new System.EventHandler(this.radioButton1_Click);
             // 
             // pictureBox5
@@ -396,7 +387,6 @@
             this.pictureBox9.Size = new System.Drawing.Size(30, 35);
             this.pictureBox9.TabIndex = 31;
             this.pictureBox9.TabStop = false;
-            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
             // 
             // Form1
             // 

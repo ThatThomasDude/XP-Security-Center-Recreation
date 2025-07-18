@@ -8,3 +8,13 @@ C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Debug\XPSe
 C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Debug\XPSecurityCenter.exe
 C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Debug\XPSecurityCenter.pdb
 C:\Users\PC-Gaming\source\repos\XPSecurityCenter\XPSecurityCenter\obj\Debug\XPSecurityCenter.Properties.Resources.resources
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.App.resources
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.GenerateResource.cache
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.exe
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.pdb
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.Properties.Resources.resources
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.exe.config
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.exe
+C:\Users\Patrick\Documents\GitHub\XP-Security-Center-Recreation\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.pdb
