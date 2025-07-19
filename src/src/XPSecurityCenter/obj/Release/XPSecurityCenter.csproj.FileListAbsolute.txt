@@ -1,0 +1,12 @@
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Release\XPSecurityCenter.exe.config
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Release\XPSecurityCenter.exe
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Release\XPSecurityCenter.pdb
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.AssemblyReference.cache
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.AlertSettings.resources
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.App.resources
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.Properties.Resources.resources
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.Recommendation.resources
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.GenerateResource.cache
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.csproj.CoreCompileInputs.cache
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.exe
+C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Release\XPSecurityCenter.pdb
