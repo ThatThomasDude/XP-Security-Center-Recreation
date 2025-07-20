@@ -10,3 +10,16 @@ C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCe
 C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.exe
 C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.pdb
 C:\Users\PC-Gaming\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.AlertSettings.resources
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.exe.config
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.exe
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\bin\Debug\XPSecurityCenter.pdb
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.AssemblyReference.cache
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.exe.config
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.AlertSettings.resources
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.App.resources
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.Properties.Resources.resources
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.Recommendation.resources
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.GenerateResource.cache
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.csproj.CoreCompileInputs.cache
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.exe
+C:\Users\ThatThomasDude\Documents\XP-Security-Center-Recreation-main\src\XPSecurityCenter\obj\Debug\XPSecurityCenter.pdb
